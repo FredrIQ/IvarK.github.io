@@ -157,7 +157,7 @@ strong { color: #0072e5 }
 #bigcrunch:hover, #infinitybtn:hover, #pastinfs:hover, #postInfinityButton:hover, #idtabbtn button:hover, .newdim:hover, #infinitydimensions td:nth-child(4) .storebtn:hover, #repMajorBtn:hover, #replicantichance.storebtn:hover, #replicantiinterval.storebtn:hover, #replicantimax.storebtn:hover, #challTabButtons td:nth-child(2) button:hover, #infchallengesbtn:hover, .respecbtn:hover, #pastcompressors:hover {
     background-color: #e2bd00 !important
 }
-.IPAmount1, .IPAmount2, #infPowAmount, #infDimMultAmount, #infDimEffectPower,
+.IPAmount1, .IPAmount2, #infPowAmount, #infPowEffectPower, #infDimMultAmount,
 #replicantiamount, #replicantimult, #replCond, #replCond1, #replCond2,
 #replCompress, #replCompressEff, #replDilater, #replDilaterEff, #qc5_eng, #qc5_eff, #fd_eff_rep {
     color: #e2bd00 !important
